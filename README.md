@@ -1,7 +1,4 @@
-
-# mongird-etal_2024
-
-**Title:** High-resolution analysis of power plant land requirements for the evolving Western United States power grid indicates coordinated land use policies will be essential
+## High-resolution analysis of power plant land requirements for the evolving Western United States power grid indicates coordinated land use policies will be essential
 
 **Authors:**
 Kendall Mongird*, Cameron Bracken, Casey D. Burleyson, Konstantinos Oikonomou, Yang Ou, Jennie S. Rice, Travis Thurber, Nathalie Voisin 

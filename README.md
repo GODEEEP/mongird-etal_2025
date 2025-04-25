@@ -5,7 +5,6 @@ Kendall Mongird*, Cameron Bracken, Casey D. Burleyson, Konstantinos Oikonomou, Y
 
 \* corresponding author: kendall.mongird@pnnl.gov
 
-![Projected Power Plant Sitings](https://github.com/GODEEEP/mongird-etal_2024_tbd/blob/main/figures/fig_2_sitings_by_scenario_year_2050.png)
 
 ## Abstract
 

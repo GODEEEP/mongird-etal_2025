@@ -5,11 +5,11 @@ Kendall Mongird*, Cameron Bracken, Casey D. Burleyson, Konstantinos Oikonomou, Y
 
 \* corresponding author: kendall.mongird@pnnl.gov
 
-![Projected Power Plant Sitings under Decarbonization](https://github.com/GODEEEP/mongird-etal_2024_tbd/blob/main/figures/fig_2_sitings_by_scenario_year_2050.png)
+![Projected Power Plant Sitings](https://github.com/GODEEEP/mongird-etal_2024_tbd/blob/main/figures/fig_2_sitings_by_scenario_year_2050.png)
 
 ## Abstract
 
-The expansion of the power grid will require unprecedented expansion of energy infrastructure, leading to extensive development footprints and land use conversion. Understanding where future power plant sitings are likely to take place and identifying the potential conflicts and land-use tradeoffs that may arise will be key to identifying feasible pathways and evaluating regional planning coordination needs. Through spatially explicit integrated modeling we develop projected 1 km2 resolution power plant sitings in the Western United States (US) for a business-as-usual scenario and an extreme load growth scenario – a net zero pathway. We find that 30% more land will be needed for solar and wind infrastructure to achieve a net zero economy compared to a business-as-usual economy and that 75% of that development is projected to be located within 10 km of natural areas. Additionally, we find California to be the most vulnerable Western US state to evolving siting constraints.
+Expanding United States electricity infrastructure to meet growing demand could require extensive power plant development footprints and land use conversion, depending on the mix of generation types chosen. Understanding where future power plant sitings are likely to take place and identifying potential conflicts and land-use tradeoffs will be key to identifying feasible and affordable investments and evaluating regional planning coordination needs. This study uses an integrated modeling framework that integrates capacity expansion planning, hourly grid operations, and geospatial techno-economic analysis to develop projections (2020-2050) of power plant sitings in the Western United States (US) at a 1 km2 resolution for a business-as-usual scenario and a high renewables penetration scenario. We find that 30% more land will be needed in the high renewables scenario as compared to business-as-usual, and that 75% of that development is projected to be located within 10 km of natural areas.  
 
 ## Journal reference
 
@@ -29,7 +29,7 @@ The post-processed files (resulting from the analysis scripts itemized below) ar
 
 |       Dataset       |                  DOI                   |
 |:-------------------:|:-----------------------------------------------------------------------------:|
-| Analysis Data Output |  https://doi.org/10.5281/zenodo.13698211 |
+| Analysis Data Output |  https://doi.org/10.5281/zenodo.14991109 |
 
 
 ## Contributing modeling software
@@ -52,8 +52,8 @@ To complete the analysis end to end, run the following notebooks:
 
 | Script Type      |               Script Name               |                                                                       Description                                                                       |
 |:-----------------|:---------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Data preparation |    prepare_cerf_siting_output.ipynb     | Reads in and prepares CERF power plant siting output results for both the business-as-usual and net zero scenarios from the GODEEEP project experiment. |
-| Data preparation |    prepare_retirment_output.ipynb     | Reads in and prepares power plant retirement output results for both the business-as-usual and net zero scenarios from the GODEEEP project experiment. |
+| Data preparation |    prepare_cerf_siting_output.ipynb     | Reads in and prepares CERF power plant siting output results for both the business-as-usual and high renewables scenarios from the GODEEEP project experiment. |
+| Data preparation |    prepare_retirment_output.ipynb     | Reads in and prepares power plant retirement output results for both the business-as-usual and high renewables scenarios from the GODEEEP project experiment. |
 | Data preparation |       prepare_raster_data.ipynb         |                           Prepares geospatial raster layers from the GRIDCERF database for western interconnection analysis.                            |
 | Data preparation |         prepare_gcam_data.ipynb         |      Collects GCAM-USA results from the GODEEEP experiment and saves total generation by technology and state required in 2050 for each scenario.       |
 | Data analysis    |      calculate_intersections.ipynb      | Calculates how much land from new power plant sitings in each scenario intersects with DACs, Important Farmland, and areas in close proximity to Natural Areas |

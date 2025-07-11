@@ -1,4 +1,4 @@
-## High-resolution analysis of power plant land requirements for the evolving Western United States power grid indicates coordinated land use policies will be essential
+## More land is needed for solar and wind infrastructure under a high renewables scenario in the Western US by 2050
 
 **Authors:**
 Kendall Mongird*, Cameron Bracken, Casey D. Burleyson, Konstantinos Oikonomou, Yang Ou, Jennie S. Rice, Travis Thurber, Nathalie Voisin 
@@ -8,7 +8,7 @@ Kendall Mongird*, Cameron Bracken, Casey D. Burleyson, Konstantinos Oikonomou, Y
 
 ## Abstract
 
-Expanding United States electricity infrastructure to meet growing demand could require extensive power plant development footprints and land use conversion, depending on the mix of generation types chosen. Understanding where future power plant sitings are likely to take place and identifying potential conflicts and land-use tradeoffs will be key to identifying feasible and affordable investments and evaluating regional planning coordination needs. This study uses an integrated modeling framework that integrates capacity expansion planning, hourly grid operations, and geospatial techno-economic analysis to develop projections (2020-2050) of power plant sitings in the Western United States (US) at a 1 km2 resolution for a business-as-usual scenario and a high renewables penetration scenario. We find that 30% more land will be needed in the high renewables scenario as compared to business-as-usual, and that 75% of that development is projected to be located within 10 km of natural areas.  
+Expanding United States electricity infrastructure to meet growing demand could require extensive power plant development footprints and land use conversion, depending on the mix of generation types chosen. Understanding where future power plant sitings are likely to take place and identifying potential conflicts and land-use tradeoffs will be key to identifying feasible and affordable investments and evaluating regional planning coordination needs. Here we use an integrated modeling framework that combines capacity expansion planning, hourly grid operations, and geospatial techno-economic analysis to develop projections (2025-2050) of power plant sitings in the Western United States (US) at a 1 km2 resolution for a business-as-usual scenario and a high renewables penetration scenario. We find that 30% more land will be needed in the high renewables scenario as compared to business-as-usual, and that 75% of that development is projected to be located within 10 km of natural areas.  
 
 ## Journal reference
 
